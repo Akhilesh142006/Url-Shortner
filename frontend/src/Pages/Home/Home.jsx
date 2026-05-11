@@ -69,7 +69,7 @@ const Home = () => {
               isLoggedIn ? navigate("/url/shortener") : navigate("/login")
             }
           >
-            Get Started
+            Ra Start chey click chey
           </Button>
         </div>
       </Container>
