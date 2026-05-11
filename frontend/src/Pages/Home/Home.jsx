@@ -46,7 +46,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Your App Name
+            Akhi URL Shortener
           </Title>
 
           <Text
